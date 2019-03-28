@@ -1,7 +1,7 @@
 {
-  "name": "Angular-7-webpack-4-boilerplate",
+  "name": "angular-7-webpack-4-starter",
   "version": "1.0.0",
-  "description": "Angular 7 application with webpack 4 boilerplate",
+  "description": "Angular 7 application with webpack 4 starter",
   "scripts": {
     "webpack-dev": "cross-env NODE_ENV=development webpack --mode development",
     "webpack-prod": "cross-env NODE_ENV=production webpack --mode production",
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/samteb/Angular-7-Webpack-4.git"
+    "url": ""
   },
-  "author": "samteb <sam.teboul@gmail.com>",
+  "author": "Alex Vicente",
   "license": "MIT",
-  "homepage": "https://github.com/samteb/Angular-7-Webpack-4",
+  "homepage": "",
   "dependencies": {
     "@angular/animations": "~7.0",
     "@angular/common": "~7.0",
